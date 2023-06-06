@@ -1,3 +1,4 @@
+<!DOCTYPE html PUBLIC>
 <html>
 
 <body>

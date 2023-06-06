@@ -7,10 +7,6 @@ import javax.servlet.http.HttpServletResponse;
 
 public class title extends HttpServlet {
 
-    public static void main(String[] args) {
-
-    }
-
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
